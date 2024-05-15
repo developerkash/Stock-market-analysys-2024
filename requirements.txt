@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaBorn
+plotly
+statsmodels
+scipy
+nbformat
+openpyxl
+streamlit
+scikit-learn
+tensorflow
+yfinance
+pandas_datareader
+datetime
+
+
